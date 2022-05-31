@@ -22,4 +22,4 @@ Contents
    api
    test
    
-![Infotopics-Apps-for-Tableau-logo-275x100-1](https://user-images.githubusercontent.com/6596304/171172694-c1ecea2b-68fa-4b04-88c4-7737c7aa8eb8.png)
+
