@@ -31,6 +31,6 @@ For example:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
-['shells', 'gorgonzola'![Uploading Infotopics-Apps-for-Tableau-logo-275x100-1.png…]()
+['shells', 'gorgonzola'
 , 'parsley']
 
