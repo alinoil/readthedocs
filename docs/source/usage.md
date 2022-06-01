@@ -4,10 +4,12 @@ installation:
 
 Installation
 ------------
+![Infotopics-Apps-for-Tableau-logo-275x100-1](https://user-images.githubusercontent.com/6596304/171428233-9ba7f9c8-29a7-47fc-afbc-4304dcb03552.png)
 
 To use Lumache2, first install it using pip:
 
 .. code-block:: console
+
 
    (.venv) $ pip install lumache1
 
@@ -29,5 +31,6 @@ For example:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+['shells', 'gorgonzola'![Uploading Infotopics-Apps-for-Tableau-logo-275x100-1.png…]()
+, 'parsley']
 
