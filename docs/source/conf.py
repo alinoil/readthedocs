@@ -20,7 +20,11 @@ extensions = [
     'myst_parser'
 ]
 
-source_suffix = ['.md', '.rst']
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
