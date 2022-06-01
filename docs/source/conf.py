@@ -19,11 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
+source_suffix = ['.md', '.rst']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
