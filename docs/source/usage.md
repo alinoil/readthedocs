@@ -1,7 +1,6 @@
-Usage
-=====
-## test
-.. _installation:
+
+## Usage
+installation:
 
 Installation
 ------------
