@@ -4,6 +4,3 @@
 
 
 
-
-https://user-images.githubusercontent.com/6596304/172321321-6d06c63f-eeee-46e0-9255-754524ddd189.mp4
-
